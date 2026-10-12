@@ -1,3 +1,5 @@
+--Made by Wyrizon and the Yvetzal Team.
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
